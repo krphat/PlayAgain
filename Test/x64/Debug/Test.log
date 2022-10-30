@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Dell\OneDrive\Tài liệu\Test\Test\Game.cpp(52,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\OneDrive\Tài liệu\Test\Test\Game.cpp(61,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Test.vcxproj -> C:\Users\Dell\OneDrive\Tài liệu\Test\x64\Debug\Test.exe
